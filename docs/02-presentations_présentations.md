@@ -1,0 +1,31 @@
+# Selected Presentations / Présentation sélectionnées
+This section contains selected presentations about digital preservation services and the work it undertakes. 
+
+Cette section contient une sélection de présentations sur le service de préservation numérique et le travail qu'il entreprend.
+
+| Presentation Slides | Event | Date | Presenter(s) |
+|:-----------|:----------- |:----------- |:----------- |
+|[Appraisal for Research Data](https://drive.google.com/file/d/1FWyMK-gpkOUusIu8kj5zv2Ci7ZtF3GTp/view?usp=drive_link) (PDF 501 KB)| Digital Research Alliance of Canada Coffee Chat | November 19, 2025 | Amanda Tomé, Digital Preservation Coordinator |
+|[Has Magic?: False: File Format Signature Development for Research Data Formats](https://drive.google.com/file/d/1OdeyDnRl5rcDpa15mAym21xqVdP7t5aa/view?usp=sharing) (PDF 2.3 MB) |[DRI Connect 2025](https://driconnect.alliancecan.ca/)|May 27, 2025| Amanda Tomé, Digital Preservation Coordinator |
+|[What really happens in FRDR?](https://drive.google.com/file/d/16nky28LH6yl7IqZWdPTZTBMUXN5Bwe-G/view?usp=sharing) (PDF 4.1 MB)|[DRI Connect 2025](https://driconnect.alliancecan.ca/)|May 27, 2025| Amanda Tomé, Digital Preservation Coordinator; Natalie Williams, Curation Services Lead|
+|[Getting Creative: Exploring ways to communicate digital preservation to others](https://drive.google.com/file/d/1s-vB1FUZnn3V48H_xvUF-Ev2w1t84zpc/view?usp=sharing) (PDF 2.5 MB) | [DPC Americas Members Forums](https://www.dpconline.org/events/eventdetail/465/-/dpc-members-forum-and-networking-event-americas)|April 25, 2025|Amanda Tomé, Digital Preservation Coordinator |
+|[Décrire un format de fichier](https://drive.google.com/file/d/14qc3ys93W9aC8s8cfzqD4CakL4ZWPmTK/view?usp=drive_link) (PDF 2.9 MB) | Alliance pour l'Information Pérenne (AIP) Québec |8 janvier 2025| Amanda Tomé, Digital Preservation Coordinator |
+|[Fun with File Formats in FRDR](https://drive.google.com/file/d/1XlD9s58tmgqJHAhjLz9zd8ae5lQqUTD5/view?usp=sharing) (PDF 666 KB) | [@Risk North 3 Summit](https://www.carl-abrc.ca/mini-site-page/risk-north-3-safeguarding-the-canadian-digital-record/)|November 21, 2024| Amanda Tomé, Digital Preservation Coordinator|
+|[Preservation Services](https://drive.google.com/file/d/19kkTOZuOhB9LuCtUnzxlw4KgzJfumLhG/view?usp=drive_link) (PDF 229 KB) / [Services de préservation](https://drive.google.com/file/d/1zwmgtzRq_QPi79J-ydjDlYwMhZPXIgwR/view?usp=drive_link) (PDF 237 KB) | [@Risk North 3 Summit](https://www.carl-abrc.ca/mini-site-page/risk-north-3-safeguarding-the-canadian-digital-record/)|November 21, 2024 |Amanda Tomé, Digital Preservation Coordinator |
+|[File Format Identification](https://drive.google.com/file/d/1erJT344W_39mkRKE6kw_zENqaynI7P26/view?usp=drive_link) (PDF 1.5 MB) | Digital Research Alliance of Canada Coffee Chat | October 09, 2024| Amanda Tomé, Digital Preservation Coordinator |
+|[Preservation Services Overview](https://drive.google.com/file/d/1wkrr1CHbThCkCOY4ODrF2jhXOlWvP3M1/view) (PDF 926 KB) | Digital Research Alliance of Canada Coffee Chat|September 18, 2024|Amanda Tomé, Digital Preservation Coordinator |
+|[A Curated List of Appraisal Challenges](https://drive.google.com/file/d/14dmBPRjMKPIKJWieYB4CTXNw0E0kE6P7/view?usp=drive_link) (PDF 1.2 MB) | [Digital Preservation Coalition Reappraising Appraisal Clinic](https://www.dpconline.org/events/eventdetail/360/-/-) | September 04, 2024 | Amanda Tomé, Digital Preservation Coordinator; Erin Clary, Curation Coordinator|
+
+---
+## License / Licence
+
+    This work is licensed under a Creative Commons Attribution 4.0 International License:  
+    Cette œuvre est mise à disposition selon les termes de la licence Creative Commons Attribution 4.0 International :  
+    https://creativecommons.org/licenses/by/4.0/
+
+---
+## Citation
+
+    Please cite these materials as: / Veuillez citer ces documents comme suit : 
+    Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
+    https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services/ 
