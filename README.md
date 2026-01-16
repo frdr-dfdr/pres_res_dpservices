@@ -11,7 +11,7 @@ Digital Preservation Services is responsible for developing strategies and enact
 * Amanda Tomé, Digital Preservation Coordinator
 
 ## Collaboration with Other Services
-Digital Preservation Services works closely with the Curation Services Team and the FRDR Product Team to preserve dataset deposited in FRDR. Below is a diagram that outlines the various responsibilities of each service as well as were responsibilities overlap.
+Digital Preservation Services works closely with the Curation Services Team and the FRDR Product Team to preserve dataset deposited in FRDR. Below is a diagram that outlines the various responsibilities of each service as well as where responsibilities overlap.
 
 <p align="center">
   <img width="500" height="426" alt="Venn diagram outlining the interaction between curation services, preservation services and FRDR" src="https://github.com/user-attachments/assets/9e63739e-695b-4f92-b6d3-2ceef39693f4" />
