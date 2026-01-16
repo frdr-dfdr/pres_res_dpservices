@@ -30,7 +30,7 @@ Les services de préservation numérique est chargé d'élaborer des stratégies
 * Amanda Tomé, Coordonnatrice en préservation numérique
 
 ## Collaboration avec d'autres services 
-Les services de préservation numérique travaillent en étroite collaboration avec l'équipe des services de curation et l'équipe des produits DFDR afin de préserver les jeux de données déposés dans le DFDR. Le diagramme ci-dessous présente les différentes responsabilités de chaque service ainsi que les domaines dans lesquels ces responsabilités se recoupent.
+Les services de préservation numérique travaillent en étroite collaboration avec l'équipe des services de curation et l'équipe des produits DFDR afin de préserver les jeux de données déposés dans le DFDR. Le diagramme ci-dessous présente les différentes responsabilités de chaque service ainsi que les domaines dans lesquels leurs responsabilités se recoupent.
 
 <p align="center">
   <img width="500" height="426" alt="Diagramme de Venn décrivant l’interaction entre les services de curation, les services de préservation et le DFDR" src="https://github.com/user-attachments/assets/64d38534-b486-4eb6-aae0-de6e92f97b1b" />
