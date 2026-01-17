@@ -15,17 +15,3 @@ Cette section contient une sélection de présentations sur le service de prése
 |[File Format Identification](https://drive.google.com/file/d/1erJT344W_39mkRKE6kw_zENqaynI7P26/view?usp=drive_link) (PDF 1.5 MB) | Digital Research Alliance of Canada Coffee Chat | October 09, 2024| Amanda Tomé, Digital Preservation Coordinator |
 |[Preservation Services Overview](https://drive.google.com/file/d/1wkrr1CHbThCkCOY4ODrF2jhXOlWvP3M1/view) (PDF 926 KB) | Digital Research Alliance of Canada Coffee Chat|September 18, 2024|Amanda Tomé, Digital Preservation Coordinator |
 |[A Curated List of Appraisal Challenges](https://drive.google.com/file/d/14dmBPRjMKPIKJWieYB4CTXNw0E0kE6P7/view?usp=drive_link) (PDF 1.2 MB) | [Digital Preservation Coalition Reappraising Appraisal Clinic](https://www.dpconline.org/events/eventdetail/360/-/-) | September 04, 2024 | Amanda Tomé, Digital Preservation Coordinator; Erin Clary, Curation Coordinator|
-
----
-## License / Licence
-
-    This work is licensed under a Creative Commons Attribution 4.0 International License:  
-    Cette œuvre est mise à disposition selon les termes de la licence Creative Commons Attribution 4.0 International :  
-    https://creativecommons.org/licenses/by/4.0/
-
----
-## Citation
-
-    Please cite these materials as: / Veuillez citer ces documents comme suit : 
-    Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
-    https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services/ 

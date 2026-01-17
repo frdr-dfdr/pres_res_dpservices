@@ -25,17 +25,3 @@ Le tableau ci-dessous fournit aux chercheuses et chercheurs des lignes directric
 | Peut être lu correctement par une série de logiciels différents. Entièrement fonctionnel dans au moins un logiciel libre | Nécessite généralement un logiciel propriétaire pour lire les fichiers de manière fiable | Options de logiciel libre pour visualiser ou analyser les fichiers, mais peut ne pas avoir toutes les fonctionnalités |
 | Souvent une norme ouverte, maintenue par un organisme d'experts non commercial | Description du format confidentielle et susceptible d'être modifiée à tout moment | Description du format susceptible d'être modifiée à tout moment, contrôlée par l'entreprise |
 | .csv, .txt, .mzml, .cif, .hdf5, .dcm, .fasta, .tiff, .jpg | .qgd, .fid, .dld, .spm, .wiff., accdb, .xls | .mat, .nb, .xlsx., .shp |
-
----
-## License / Licence
-
-    This work is licensed under a Creative Commons Attribution 4.0 International License:  
-    Cette œuvre est mise à disposition selon les termes de la licence Creative Commons Attribution 4.0 International :  
-    https://creativecommons.org/licenses/by/4.0/
-
----
-## Citation
-
-    Please cite these materials as: / Veuillez citer ces documents comme suit : 
-    Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
-    https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services/ 

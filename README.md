@@ -2,7 +2,12 @@
 
 ---
 # Digital Preservation Services 
-[Version française ci-dessous](https://github.com/frdr-dfdr/pres_res_dpservices?tab=readme-ov-file#services-de-pr%C3%A9servation-num%C3%A9rique)
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+[Version française ci-dessous](#services-de-préservation-numérique)
 
 Digital Preservation Services is responsible for developing strategies and enacting activities that contribute to the long-term access and reuse of datasets. The service is also responsible for determining long-term retention of datasets through the application of appraisal and reappraisal strategies and deaccession workflows. Digital Preservation Services is responsible for identifying gaps and areas of improvement in an effort to develop more robust and efficient activities to ensure long-term access and reuse of the data.
 
@@ -23,6 +28,11 @@ Digital Preservation Services works closely with the Curation Services Team and 
 
 ---
 # Services de préservation numérique
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+[cc-by]: https://creativecommons.org/licenses/by/4.0/deed.fr
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
 Les services de préservation numérique est chargé d'élaborer des stratégies et de mettre en œuvre des activités qui contribuent à l'accès et à la réutilisation à long terme des jeux de données. Le service est également chargé de déterminer la conservation à long terme des jeux de données par l'application de stratégies d'évaluation et de réévaluation et de flux de travail de retrait. Le service de préservation numérique est chargé d'identifier les lacunes et les domaines d'amélioration dans le but de développer des activités plus robustes et plus efficaces pour garantir l'accès et la réutilisation à long terme des données.
 
 ## Équipe des services de préservation numérique
@@ -39,28 +49,38 @@ Les services de préservation numérique travaillent en étroite collaboration a
 ## Flux de travail de haut niveau
 - [Flux de travail pour la préservation numérique](https://drive.google.com/file/d/15PjhC46sWAnOF02uTJ1yR4izU5uwt3CM/view?usp=drive_link) (PDF 238 KB)
 - [Processus de création de signatures de format de fichier](https://drive.google.com/file/d/16aQNO4ANRB_2XidcLzXzRfBEsCEGY5Pr/view?usp=drive_link) (PDF 74 KB)
-  
----
-## License / Licence
-
-    This work is licensed under a Creative Commons Attribution 4.0 International License:  
-    Cette œuvre est mise à disposition selon les termes de la licence Creative Commons Attribution 4.0 International :  
-    https://creativecommons.org/licenses/by/4.0/
 
 ---
 ## Citation
 
-    Please cite these materials as: / Veuillez citer ces documents comme suit : 
-    Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
-    https://github.com/Alliance-RDM-GDR/Digital_Preservation_Services/ 
-
+  Please cite these materials as: / Veuillez citer ces documents comme suit : 
+  ```
+  Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
+  https://github.com/frdr-dfdr/pres_res_dpservices 
+  ```
 ---
 ## Contact
 
-    Digital Preservation Services / Services de préservation numérique 
-    Email/courriel: amanda.tome@alliancecan.ca 
+  Digital Preservation Services / Services de préservation numérique <br>
+  Email/courriel: preservation@frdr-dfdr.ca
+
+---
+## License / Licence
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+
+Cette œuvre est mise à disposition selon les termes de la
+[licence Creative Commons Attribution 4.0 International][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: https://creativecommons.org/licenses/by/4.0/deed.fr
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 
 ---
 <p align="center">
-<img width="400" height="120" alt="frdr_logo" src="https://github.com/user-attachments/assets/daba313d-3b50-48c9-80b7-4b595c715339" />
+<img width="400" height="120" alt="FRDR logo" src="https://github.com/user-attachments/assets/daba313d-3b50-48c9-80b7-4b595c715339" />
 </p>
