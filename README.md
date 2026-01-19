@@ -22,10 +22,13 @@ Digital Preservation Services works closely with the Curation Services Team and 
   <img width="500" height="426" alt="Venn diagram outlining the interaction between curation services, preservation services and FRDR" src="https://github.com/user-attachments/assets/9e63739e-695b-4f92-b6d3-2ceef39693f4" />
 </p>
 
+- Diagram developed by Natalie Williams, Curation Services Lead
+
 ## High Level Workflows
 - [Digital Preservation Processing Workflow](https://drive.google.com/file/d/1_Vwltsv077pgNfkm4mJzvX5781eMuRCt/view?usp=drive_link) (PDF 216 KB)
 - [File Format Signature Development Workflow](https://drive.google.com/file/d/1s3cPfoveZPZCFjf3Q1JLX906kkaqENFx/view?usp=drive_link) (PDF 72 KB)
 
+---
 ---
 # Services de préservation numérique
 [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -46,27 +49,14 @@ Les services de préservation numérique travaillent en étroite collaboration a
   <img width="500" height="426" alt="Diagramme de Venn décrivant l’interaction entre les services de curation, les services de préservation et le DFDR" src="https://github.com/user-attachments/assets/64d38534-b486-4eb6-aae0-de6e92f97b1b" />
 </p>
 
+- Diagramme développé par Natalie Williams, Responsable des services de curation
+
 ## Flux de travail de haut niveau
 - [Flux de travail pour la préservation numérique](https://drive.google.com/file/d/15PjhC46sWAnOF02uTJ1yR4izU5uwt3CM/view?usp=drive_link) (PDF 238 KB)
 - [Processus de création de signatures de format de fichier](https://drive.google.com/file/d/16aQNO4ANRB_2XidcLzXzRfBEsCEGY5Pr/view?usp=drive_link) (PDF 74 KB)
 
 ---
-## Citation
-
-  Please cite these materials as: / Veuillez citer ces documents comme suit : 
-  ```
-  Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
-  https://github.com/frdr-dfdr/pres_res_dpservices 
-  ```
----
-## Contact
-
-  Digital Preservation Services / Services de préservation numérique <br>
-  Email/courriel: preservation@frdr-dfdr.ca
-
----
 ## License / Licence
-
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
@@ -79,6 +69,19 @@ Cette œuvre est mise à disposition selon les termes de la
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/deed.fr
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+
+---
+## Citation
+
+  Please cite these materials as: / Veuillez citer ces documents comme suit : 
+  ```
+  Digital Preservation Services. (2026). Digital Research Alliance of Canada.  
+  https://github.com/frdr-dfdr/pres_res_dpservices 
+  ```
+---
+## Contact
+  Digital Preservation Services / Services de préservation numérique <br>
+  Email/courriel: preservation@frdr-dfdr.ca
 
 ---
 <p align="center">
