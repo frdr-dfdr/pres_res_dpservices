@@ -24,9 +24,10 @@ Digital Preservation Services works closely with the Curation Services Team and 
 
 - Diagram developed by Natalie Williams, Curation Services Lead
 
-## High Level Workflows
-- [Digital Preservation Processing Workflow](https://drive.google.com/file/d/1_Vwltsv077pgNfkm4mJzvX5781eMuRCt/view?usp=drive_link) (PDF 216 KB)
-- [File Format Signature Development Workflow](https://drive.google.com/file/d/1s3cPfoveZPZCFjf3Q1JLX906kkaqENFx/view?usp=drive_link) (PDF 72 KB)
+## For Researcher Community
+- [Resources](/docs/01-resources_ressources.md)
+- [Presentations](/docs/02-presentations_présentations.md)
+- [Workflows](/docs/03-workflows_flux_de_travail.md)
 
 ---
 ---
@@ -51,9 +52,10 @@ Les services de préservation numérique travaillent en étroite collaboration a
 
 - Diagramme développé par Natalie Williams, Responsable des services de curation
 
-## Flux de travail de haut niveau
-- [Flux de travail pour la préservation numérique](https://drive.google.com/file/d/15PjhC46sWAnOF02uTJ1yR4izU5uwt3CM/view?usp=drive_link) (PDF 238 KB)
-- [Processus de création de signatures de format de fichier](https://drive.google.com/file/d/16aQNO4ANRB_2XidcLzXzRfBEsCEGY5Pr/view?usp=drive_link) (PDF 74 KB)
+## Pour la communauté de recherche
+- [Ressources](/docs/01-resources_ressources.md#ressources-pour-les-chercheuses-et-les-chercheurs)
+- [Présentations](/docs/02-presentations_présentations.md)
+- [Flux de travail](/docs/03-workflows_flux_de_travail.md#flux-de-travail-de-haut-niveau)
 
 ---
 ## License / Licence
