@@ -1,5 +1,5 @@
 # Resources for Researchers
-- [Digital Preservation Basics](https://drive.google.com/file/d/1U_WoOCOKXZRTdPPPUQZf9spx4ykTomsV/view?usp=drive_link) (PDF 276 KB)
+- [Digital Preservation Basics](https://drive.google.com/file/d/1B4fHOMDQ_lYVPsddOZ-WsncKg1sJzfmt/view?usp=drive_link) (PDF 276 KB)
 - [Digital Preservation for Research Data](https://drive.google.com/file/d/18e2IRPHpgY4BCeFcaMpmRqlo-oDc5jC1/view?usp=drive_link) (PDF 258 KB)
 - [Digital Preservation Tips for Researchers ](https://drive.google.com/file/d/1LNLKe86KvYf0-SVzQlJ4rtKlNxuw8_Mm/view?usp=sharing) (PDF 697 KB)
 
