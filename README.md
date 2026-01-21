@@ -43,9 +43,9 @@ Les services de préservation numérique est chargé d'élaborer des stratégies
 
 ## Équipe des services de préservation numérique
 * Maaike Bos, Analyste en préservation numérique
-* Rick Gladwin, développeur
+* Rick Gladwin, Développeur
 * Amanda Tomé, Coordonnatrice en préservation numérique
-* Mike Winter, développeur principal
+* Mike Winter, Développeur principal
 
 ## Collaboration avec d'autres services 
 Les services de préservation numérique travaillent en étroite collaboration avec l'équipe des services de curation et l'équipe des produits DFDR afin de préserver les jeux de données déposés dans le DFDR. Le diagramme ci-dessous présente les différentes responsabilités de chaque service ainsi que les domaines dans lesquels leurs responsabilités se recoupent.
