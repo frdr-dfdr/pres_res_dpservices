@@ -13,7 +13,9 @@ Digital Preservation Services is responsible for developing strategies and enact
 
 ## Digital Preservation Services Team
 * Maaike Bos, Digital Preservation Analyst
+* Rick Gladwin, Developer
 * Amanda Tomé, Digital Preservation Coordinator
+* Mike Winter, Senior Developer
 
 ## Collaboration with Other Services
 Digital Preservation Services works closely with the Curation Services Team and the FRDR Product Team to preserve dataset deposited in FRDR. Below is a diagram that outlines the various responsibilities of each service as well as where responsibilities overlap.
@@ -41,7 +43,9 @@ Les services de préservation numérique est chargé d'élaborer des stratégies
 
 ## Équipe des services de préservation numérique
 * Maaike Bos, Analyste en préservation numérique
+* Rick Gladwin, développeur
 * Amanda Tomé, Coordonnatrice en préservation numérique
+* Mike Winter, développeur principal
 
 ## Collaboration avec d'autres services 
 Les services de préservation numérique travaillent en étroite collaboration avec l'équipe des services de curation et l'équipe des produits DFDR afin de préserver les jeux de données déposés dans le DFDR. Le diagramme ci-dessous présente les différentes responsabilités de chaque service ainsi que les domaines dans lesquels leurs responsabilités se recoupent.
