@@ -1,9 +1,8 @@
-# Selected Presentations / Présentation sélectionnées
-This section contains selected presentations about digital preservation services and the work it undertakes. 
+# Présentations sélectionnées
 
 Cette section contient une sélection de présentations sur le service de préservation numérique et le travail qu'il entreprend.
 
-| Presentation Slides | Event | Date | Presenter(s) |
+| Diapositives | Événement | Date | Intervenant(s) |
 |:-----------|:----------- |:----------- |:----------- |
 |[Appraisal for Research Data](https://drive.google.com/file/d/1FWyMK-gpkOUusIu8kj5zv2Ci7ZtF3GTp/view?usp=drive_link) (PDF 501 KB)| Digital Research Alliance of Canada Coffee Chat | November 19, 2025 | Amanda Tomé, Digital Preservation Coordinator |
 |[Has Magic?: False: File Format Signature Development for Research Data Formats](https://drive.google.com/file/d/1OdeyDnRl5rcDpa15mAym21xqVdP7t5aa/view?usp=sharing) (PDF 2.3 MB) |[DRI Connect 2025](https://driconnect.alliancecan.ca/)|May 27, 2025| Amanda Tomé, Digital Preservation Coordinator |
