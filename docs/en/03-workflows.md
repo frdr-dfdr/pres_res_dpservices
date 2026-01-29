@@ -4,6 +4,7 @@ Last updated: 2026-01-28
 ## Processing Workflows
 Includes workflows related to the processing of datasets for long-term preservation.
 
+Click to enlarge image
 ### Dataset processing workflow
 <img width="725" height="145" alt="digital preservation processing workflow" src="../../assets/workflows/processing_workflow_en.jpg" />
 <br>
@@ -19,6 +20,7 @@ Includes workflows related to the processing of datasets for long-term preservat
 ## Format Related Workflows
 Includes all format related workflows from identification to the updating of the Format Policy Registry.
 
+Click to enlarge image
 ### Format Identification and Signature Development
 <img width="520" height="300" alt="format identification and signature development workflow" src="../../assets/workflows/format_id_en.jpg"/>
 

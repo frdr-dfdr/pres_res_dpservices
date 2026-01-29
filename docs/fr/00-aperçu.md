@@ -13,6 +13,8 @@ L'image ci-dessous donne un aperçu d'une sélection d'activités de préservati
   <img width="300" height="300" alt="Web of preservation activities" src="../../assets/workflows/preservation_web_fr.jpg" />
 </p>
 
+- Cliquez pour agrandir l'image
+
 Certaines des activités fondamentales de préservation numérique comprennent :
 
 |Activité|Description|

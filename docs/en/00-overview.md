@@ -13,6 +13,8 @@ The image below provides and overview of a select digital preservation activitie
   <img width="300" height="300" alt="Web of preservation activities" src="../../assets/workflows/preservation_web_en.jpg" />
 </p>
 
+- Click to enlarge image
+
 Some of the basic digital preservation activities include:
 
 |Activity|Description|

@@ -4,6 +4,8 @@ Dernière mise à jour : 2026-01-28
 ## Flux de travail de traitement
 Comprend les flux de travail liés au traitement des jeux de données en vue de leur préservation à long terme.
 
+Cliquez pour agrandir l'image
+
 ### Flux de travail pour le traitement des jeux de données
 <img width="760" height="145" alt="Flux de travail pour le traitement des jeux de données" src="../../assets/workflows/processing_workflow_fr.jpg" />
 <br>
@@ -19,6 +21,8 @@ Comprend les flux de travail liés au traitement des jeux de données en vue de 
 ## Flux de travail liés au format
 Comprend tous les flux de travail liés au format, depuis l'identification jusqu'à la mise à jour du registre des politiques de format.
 
+Cliquez pour agrandir l'image
+
 ### Identification du format et développement de la signature
 <img width="520" height="300" alt="Identification du format et processus de développement de la signature" src="../../assets/workflows/format_id_fr.jpg"/>
 
@@ -27,4 +31,4 @@ Comprend tous les flux de travail liés au format, depuis l'identification jusqu
 ### Mise à jour du registre des politiques de format
 <img width="725" height="145" alt="Mise à jour du registre des politiques de format" src="../../assets/workflows/fpr_update_fr.jpg" />
 
-[Mise à jour du registre des politiques de format](https://drive.google.com/file/d/1aQk3wPv-HiVA2YAJYbPOvLFWCvqEp9vi/view?usp=drive_link) (PDF 1.1 MB)
+[Mise à jour du registre des politiques de format](https://drive.google.com/file/d/1ik4SAW90eUvwtY_d0HU2F-2yEqPz5e9s/view?usp=drive_link) (PDF 1.1 MB)

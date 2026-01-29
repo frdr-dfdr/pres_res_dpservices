@@ -5,7 +5,7 @@ Vous trouverez ci-dessous des ressources développées par les services de prés
 
 |Ressource|Description|
 |:----|:------|
-|[Principes de base de la préservation numérique](https://drive.google.com/file/d/1BZJAvO36gpp0ahlIKOuXgEcG1t591XKb/view?usp=drive_link) (PDF 287 KB)|Cette ressource fournit une vue général des différentes activités de préservation numérique.|
+|[Principes de base de la préservation numérique](https://drive.google.com/file/d/1uBfFvxiLEu-DA7Zr9r9vX4y-Eekm-l-Q/view?usp=drive_link) (PDF 287 KB)|Cette ressource fournit une vue général des différentes activités de préservation numérique.|
 |[Préservation numérique des données de recherche](https://drive.google.com/file/d/1BZJAvO36gpp0ahlIKOuXgEcG1t591XKb/view?usp=drive_link) (PDF 280 KB)|Cette ressource fournit aux chercheuses et chercheurs une liste d'une page de considérations pour les aider à déterminer si leurs données doivent être conservées à long terme et quelles données doivent être conservées.|
 
 ### Lignes directrices sur les formats de fichiers à l’intention des chercheuses et chercheurs
