@@ -1,7 +1,7 @@
 # Changelog
-Only major changes will be tracked in this changelog. Fixing typos, links, and layouts will not be documented unless it consistitutes a signification change to the resource.
+Only major changes will be tracked in this changelog. Fixing typos, links, and layouts will not be documented unless it constitutes a signification change to the resource.
 
-## [2.0.0]
+## [2.0.0] - 2026-01-28
 ### Added
 - New pages: 00-overview.md / 00-aperçu.md
 - Added English and French workflow diagrams
