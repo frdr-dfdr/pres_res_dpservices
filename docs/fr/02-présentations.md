@@ -1,6 +1,7 @@
 # Présentations sélectionnées
+Dernière mise à jour : 2026-01-30
 
-Cette section contient une sélection de présentations sur le service de préservation numérique et le travail qu'il entreprend.
+Cette section présente une sélection de présentations portant sur les services de préservation numérique et les travaux qu’ils mènent.
 
 | Diapositives | Événement | Date | Intervenant(s) |
 |:-----------|:----------- |:----------- |:----------- |
