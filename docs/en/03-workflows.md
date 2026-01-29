@@ -14,7 +14,7 @@ Includes workflows related to the processing of datasets for long-term preservat
 
 <img width="725" height="145" alt="digital preservation file listing workflow" src="../../assets/workflows/file_listing_wkfl_en.jpg" />
 
-[File Listing Workflow](https://drive.google.com/file/d/1ydXZrJleKEPLdsbvka59M_khY4HOKgxS/view?usp=drive_link) (PDF 417 KB)
+[File Listing Workflow](https://drive.google.com/file/d/10amOasg-hfKwbXzrjBrUER4PREhf1m4m/view?usp=drive_link) (PDF 1.6 MB)
 
 ## Format Related Workflows
 Includes all format related workflows from identification to the updating of the Format Policy Registry.

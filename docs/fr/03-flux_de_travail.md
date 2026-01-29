@@ -12,9 +12,9 @@ Comprend les flux de travail liés au traitement des jeux de données en vue de 
 
 ### Génération de listes de fichiers - ÉBAUCHE
 
-<!-- <img width="725" height="145" alt="digital preservation file listing workflow" src="../../assets/workflows/file_listing_wkfl_en.jpg" />
+<img width="725" height="145" alt="Flux de travail pour la liste des fichiers" src="../../assets/workflows/file_listing_wkfl_fr.jpg" />
 
-[File Listing Workflow](https://drive.google.com/file/d/1ydXZrJleKEPLdsbvka59M_khY4HOKgxS/view?usp=drive_link) (PDF 417 KB) -->
+[Flux de travail pour la liste des fichiers](https://drive.google.com/file/d/1ydXZrJleKEPLdsbvka59M_khY4HOKgxS/view?usp=drive_link) (PDF 1.7 MB)
 
 ## Flux de travail liés au format
 Comprend tous les flux de travail liés au format, depuis l'identification jusqu'à la mise à jour du registre des politiques de format.
