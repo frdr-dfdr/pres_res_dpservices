@@ -47,7 +47,7 @@ Digital Preservation Services works closely with the Curation Services Team and 
 * Mike Winter, Senior Developer
 
 ## Guidelines and Resources
-- [Basics](/docs/en/00-digital_pres_basics.md)
+- [Overview](/docs/en/00-overview.md)
 - [Resources](/docs/en/01-resources.md)
 - [Presentations](/docs/en/02-presentations.md)
 - [Workflows](/docs/en/03-workflows.md)
@@ -60,7 +60,9 @@ Digital Preservation Services works closely with the Curation Services Team and 
 [cc-0]: http://creativecommons.org/publicdomain/zero/1.0/
 [cc-0-shield]: https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg
 
-Les services de préservation numérique est chargé d'élaborer des stratégies et de mettre en œuvre des activités qui contribuent à l'accès et à la réutilisation à long terme des jeux de données. Le service est également chargé de déterminer la conservation à long terme des jeux de données par l'application de stratégies d'évaluation et de réévaluation et de flux de travail de retrait. Le service de préservation numérique est chargé d'identifier les lacunes et les domaines d'amélioration dans le but de développer des activités plus robustes et plus efficaces pour garantir l'accès et la réutilisation à long terme des données.
+Les Services de préservation numérique sont responsables de l’élaboration de stratégies et de la mise en œuvre d’activités visant à assurer l’accès à long terme aux jeux de données ainsi que leur réutilisation. Le service est également chargé de déterminer la conservation à long terme des jeux de données au moyen de stratégies d’évaluation et de réévaluation, ainsi que de processus de retrait des collections. 
+
+Les Services de préservation numérique ont pour mission de repérer les lacunes et les possibilités d’amélioration afin de mettre en place des activités plus robustes et plus efficaces pour garantir l’accès à long terme aux données et leur réutilisation.
 
 ## Objectifs
 
@@ -98,12 +100,13 @@ Les services de préservation numérique travaillent en étroite collaboration a
 - Mike Winter, Développeur principal
 
 ## Lignes directrices et ressources
+- [Aperçu](/docs/fr/00-aperçu.md)
 - [Ressources](/docs/fr/01-ressources.md)
 - [Présentations](/docs/fr/02-présentations.md)
 - [Flux de travail](/docs/fr/03-flux_de_travail.md)
 
----
-## License / Licence
+## General Information / Informations générales
+### License / Licence
 This work is licensed under [Creative Commons Zero 1.0 Universal][cc-0].
 
 [cc-0]: https://creativecommons.org/publicdomain/zero/1.0/
@@ -117,9 +120,12 @@ Cette œuvre est mise à disposition selon les termes de la
 [cc-0-image]: https://licensebuttons.net/p/88x31.png
 
 ---
-## Contact
+### Contact
   Digital Preservation Services / Services de préservation numérique <br>
   Email/courriel : preservation@frdr-dfdr.ca
+
+---
+Last updated: / Dernière mise à jour : 2026-01-27
 
 ---
 <p align="center">

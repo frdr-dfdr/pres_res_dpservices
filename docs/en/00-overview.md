@@ -1,5 +1,5 @@
-# Digital Preservation Basics
-Last updated: 2026-01-27
+# Digital Preservation Overview
+Last updated: 2026-01-30
 
 ## What is Digital Preservation?
 
@@ -7,7 +7,7 @@ Last updated: 2026-01-27
 >-Digital Preservation Coalition
 
 ## Digital Preservation Activities
-The web image provides and overview of a select digital preservation activities undertaken by the Service.
+The image below provides and overview of a select digital preservation activities undertaken by the Service.
 
 <p align="center">
   <img width="300" height="300" alt="Web of preservation activities" src="../../assets/workflows/preservation_web_en.jpg" />
@@ -25,4 +25,4 @@ Some of the basic digital preservation activities include:
 |Migration|Migration involves transforming data from one format to a newer version of the same format. It may also involve the migration of a file to a different format to ensure continued access.|
 |Normalization| Normalization involves converting copies of the original files to a select few non-propriety and widely available and used formats.|
 
-- [Digital Preservation Basics](https://drive.google.com/file/d/1B4fHOMDQ_lYVPsddOZ-WsncKg1sJzfmt/view?usp=drive_link) (PDF 276 KB)
+- [Digital Preservation Basics](https://drive.google.com/file/d/1BfVPpTKyV3LhmzTHb-vmVDHjQbO_SMFy/view?usp=drive_link) (PDF 276 KB)
