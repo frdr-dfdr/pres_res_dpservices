@@ -125,7 +125,7 @@ Cette œuvre est mise à disposition selon les termes de la
   Email/courriel : preservation@frdr-dfdr.ca
 
 ---
-Last updated: / Dernière mise à jour : 2026-01-27
+Last updated: / Dernière mise à jour : 2026-01-28
 
 ---
 <p align="center">

@@ -1,5 +1,5 @@
 # Ressources pour les chercheuses et les chercheurs
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-01-28
 
 Vous trouverez ci-dessous des ressources développées par les services de préservation numérique à l'intention des chercheuses et chercheurs. Ces ressources seront élargies au besoin. Si vous souhaitez voir développer une ressource en particulier, veuillez envoyer un courriel à preservation@frdr-dfdr.ca et nous examinerons votre demande.
 

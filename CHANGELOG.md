@@ -3,7 +3,7 @@ Only major changes will be tracked in this changelog. Fixing typos, links, and l
 
 ## [2.0.0]
 ### Added
-- New pages - 00-overview.md / 00-aperçu.md
+- New pages: 00-overview.md / 00-aperçu.md
 - Added English and French workflow diagrams
 
 ### Changed

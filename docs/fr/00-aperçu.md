@@ -1,5 +1,5 @@
 # Aperçu de la préservation numérique
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-01-28
 
 ## Qu'est-ce que la préservation ?
 

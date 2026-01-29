@@ -1,5 +1,5 @@
 # Flux de travail de haut niveau
-Dernière mise à jour : 2026-01-30
+Dernière mise à jour : 2026-01-28
 
 ## Flux de travail de traitement
 Comprend les flux de travail liés au traitement des jeux de données en vue de leur préservation à long terme.
