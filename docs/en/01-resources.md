@@ -5,7 +5,7 @@ Below are resources developed by Digital Preservation Services for researchers. 
 
 |Resource|Description|
 |:----|:------|
-|[Digital Preservation Basics](https://drive.google.com/file/d/1B4fHOMDQ_lYVPsddOZ-WsncKg1sJzfmt/view?usp=drive_link) (PDF 276 KB)|This resource provides a high level overview of different digital preservation activities.|
+|[Digital Preservation Basics](https://drive.google.com/file/d/1BfVPpTKyV3LhmzTHb-vmVDHjQbO_SMFy/view?usp=drive_link) (PDF 276 KB)|This resource provides a high level overview of different digital preservation activities.|
 |[Digital Preservation for Research Data](https://drive.google.com/file/d/18e2IRPHpgY4BCeFcaMpmRqlo-oDc5jC1/view?usp=drive_link) (PDF 258 KB)|This resource provides researchers with a 1 page list of considerations to help determine if their data needs long-term preservation and which data should be preserved.|
 
 <!--- [Digital Preservation Tips for Researchers ](https://drive.google.com/file/d/1LNLKe86KvYf0-SVzQlJ4rtKlNxuw8_Mm/view?usp=sharing) (PDF 697 KB)-->

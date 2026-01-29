@@ -1,17 +1,19 @@
 # Ressources pour les chercheuses et les chercheurs
-- Guides/liste de contrôle - en cours de développement
+Dernière mise à jour : 2026-01-30
+
+Vous trouverez ci-dessous des ressources développées par les services de préservation numérique à l'intention des chercheuses et chercheurs. Ces ressources seront élargies au besoin. Si vous souhaitez voir développer une ressource en particulier, veuillez envoyer un courriel à preservation@frdr-dfdr.ca et nous examinerons votre demande.
 
 |Ressource|Description|
 |:----|:------|
-|[Principes de base de la préservation numérique]() (PDF 276 KB)|This resource provides a high level overview of different digital preservation activities.|
-|[Digital Preservation for Research Data](https://drive.google.com/file/d/18e2IRPHpgY4BCeFcaMpmRqlo-oDc5jC1/view?usp=drive_link) (PDF 258 KB)|This resource provides researchers with a 1 page list of considerations to help determine if their data needs long-term preservation and which data should be preserved.|
+|[Principes de base de la préservation numérique](https://drive.google.com/file/d/1BZJAvO36gpp0ahlIKOuXgEcG1t591XKb/view?usp=drive_link) (PDF 287 KB)|Cette ressource fournit une vue général des différentes activités de préservation numérique.|
+|[Préservation numérique des données de recherche](https://drive.google.com/file/d/1BZJAvO36gpp0ahlIKOuXgEcG1t591XKb/view?usp=drive_link) (PDF 280 KB)|Cette ressource fournit aux chercheuses et chercheurs une liste d'une page de considérations pour les aider à déterminer si leurs données doivent être conservées à long terme et quelles données doivent être conservées.|
 
-### Conseils sur les formats de fichiers pour les chercheuses et les chercheurs
-Le tableau ci-dessous fournit aux chercheuses et chercheurs des lignes directrices générales sur les différences entre les formats propriétaires et les formats ouverts. En général, les formats ouverts sont encouragés car la probabilité d'un accès continu et d'une réutilisation est plus élevée. Cependant, toutes les recherches ne peuvent pas utiliser des formats ouverts. 
+### Lignes directrices sur les formats de fichiers à l’intention des chercheuses et chercheurs
+Le tableau ci-dessous présente des lignes directrices générales destinées aux chercheuses et chercheurs et décrit les différences entre les formats propriétaires et les formats ouverts. De manière générale, l’utilisation de formats ouverts est encouragée, car la probabilité d’un accès continu et d’une réutilisation à long terme est plus élevée. 
 
-| Formats ouverts | Formats propriétaires | Format propriétaire mais ouvert|
+| Formats ouverts | Formats propriétaires | Format propriétaire, mais ouvert|
 |:-----------|:----------- |:----------- |
-| Aucune restriction d'utilisation. Spécification du format librement disponible | Propriété et contrôle d'une entreprise | Propriété, mais la spécification peut être publiée (en totalité ou en partie) |
-| Peut être lu correctement par une série de logiciels différents. Entièrement fonctionnel dans au moins un logiciel libre | Nécessite généralement un logiciel propriétaire pour lire les fichiers de manière fiable | Options de logiciel libre pour visualiser ou analyser les fichiers, mais peut ne pas avoir toutes les fonctionnalités |
-| Souvent une norme ouverte, maintenue par un organisme d'experts non commercial | Description du format confidentielle et susceptible d'être modifiée à tout moment | Description du format susceptible d'être modifiée à tout moment, contrôlée par l'entreprise |
+| Aucune restriction d’utilisation. Spécification du format librement accessible. | Détenus et contrôlés par une entreprise. | PPropriétaires, mais dont la spécification peut être publiée (en tout ou en partie). |
+| PLisibles correctement par un large éventail de logiciels. Capables de fonctionner sur au moins un logiciel gratuit. | Nécessitent généralement un logiciel propriétaire pour une lecture fiable.| Options de logiciels gratuits permettant la visualisation ou l’analyse des fichiers, sans nécessairement offrir toutes les fonctionnalités. |
+| Souvent des normes ouvertes, maintenues par un organisme d’expertise non commercial.| Description du format confidentielle et susceptible de changer à tout moment. | Description du format susceptible de changer à tout moment, sous le contrôle de l’entreprise. |
 | .csv, .txt, .mzml, .cif, .hdf5, .dcm, .fasta, .tiff, .jpg | .qgd, .fid, .dld, .spm, .wiff., accdb, .xls | .mat, .nb, .xlsx., .shp |
