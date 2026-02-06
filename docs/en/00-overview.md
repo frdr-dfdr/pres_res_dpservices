@@ -1,5 +1,5 @@
 # Digital Preservation Overview
-Last updated: 2026-01-28
+Last updated: 2026-02-06
 
 ## What is Digital Preservation?
 
@@ -10,21 +10,20 @@ Last updated: 2026-01-28
 The image below provides and overview of a select digital preservation activities undertaken by the Service.
 
 <p align="center">
-  <img width="300" height="300" alt="Web of preservation activities" src="../../assets/workflows/preservation_web_en.jpg" />
+  <img width="600" height="600" alt="Web of preservation activities" src="../../assets/workflows/preservation_web_en.jpg" style="border: 1px black" />
 </p>
 
 - Click to enlarge image
 
-Some of the basic digital preservation activities include:
+---
+Examples of activities undertaken by Digital Preservation Services include:
 
-|Activity|Description|
-|:-------|:----------|
-|Planning and Documentation|Planning and documentation are key components of a digital preservation program. Digital preservation planning can include risk analysis, program benchmarking, and format strategies. Documentation can include digital preservation policies, frameworks, and workflows.|
-|Metadata|Metadata is information that provides context about the digital files. Metadata for digital preservation includes information needed to manage the digital files over time. This information can be contextual, historical or technical in nature.|
-|Fixity Checking|Fixity checking is a method that involves verifying that the file has not been altered or changed. This ensures that the integrity of the file is maintained. A common way to conduct fixity checking is to use checksums, a unique alpha-numerical sequence, that identifies the file.|
-|Refreshing|Refreshing is a method that involves copying digital content from one storage medium to another storage medium of the same type. During this process there is no change to the bitstream of the file. Storage media refresh needs to occur to address storage decay or obsolescence. It is one component of a successful digital preservation program.|
-|Replication|Replication is a method that involves ensuring that multiple copies of the digital files are stored in different geographic locations to mitigate loss in the event of a disaster, (fire, flood, system failures, cyberattack, etc.)|
-|Migration|Migration involves transforming data from one format to a newer version of the same format. It may also involve the migration of a file to a different format to ensure continued access.|
-|Normalization| Normalization involves converting copies of the original files to a select few non-propriety and widely available and used formats.|
-
-- [Digital Preservation Basics](https://drive.google.com/file/d/1BfVPpTKyV3LhmzTHb-vmVDHjQbO_SMFy/view?usp=drive_link) (PDF 276 KB)
+|Activity|Examples|
+|:-------|:------|
+|Asset Registry|Inventory of all preservation packages.|
+|Benchmarking| Using [DPC RAM Benchmarking](https://www.dpconline.org/digipres/implement-digipres/dpc-ram) to evaluation the Service.|
+|Documentation|Documenting [workflows](/docs/en/03-workflows.md) and storage infrastructure.|
+|Format Identification|Format analysis and development of format signatures for [PRONOM](https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new)|
+|Metrics|Collecting information about processing, appraisal decisions, and format identification.|
+|Outreach and Advocacy|Delivering presentations about digital preservation and Digital Preservation Services, and the development of resources for the digital preservation community and researchers.|
+|Preservation Planning|Developing a Preservation Action Planning and Risk Matrix that will be made public via the Services' [Format Policy Registry](https://github.com/frdr-dfdr/pres_res_fpr).|
