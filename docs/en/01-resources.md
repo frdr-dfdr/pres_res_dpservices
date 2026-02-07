@@ -51,7 +51,7 @@ Consider if all the data you have generated needs to be kept or only part of it.
 *Adapted from Robyn Stobbs, “Understanding Data Deposit,” 2025-02-13 and Digital Curation Centre, “Five steps to decide what
 data to keep: DCC Checklist for Appraising Research Data, 2014”
 
-* [Digital Preservation for Research Data](https://drive.google.com/file/d/1McPV02irqmfZ-LMMR_dwwutXYt94mb5K/view?usp=drive_link) (PDF 265 KB)
+- [Digital Preservation for Research Data](https://drive.google.com/file/d/1McPV02irqmfZ-LMMR_dwwutXYt94mb5K/view?usp=drive_link) (PDF 265 KB)
 
 ## File Format Guidance for Researchers
 The table below provides general guidelines for researchers outlining the differences between proprietary and open formats. In general, open formats are encouraged as the probability of continued access and reuse is higher. However, not all research can use open formats.
@@ -62,3 +62,5 @@ The table below provides general guidelines for researchers outlining the differ
 | Can be correctly read by a range of different software programs. Fully functional in at least one free software | Typically  requires proprietary software to read files reliably | Freeware options to visualize or analyze files, but may not have full functionality |
 | Often an open standard, maintained by non-commercial expert body | Format description confidential, and subject to change at any time | Format description subject to change at any time, controlled by company |
 | .csv, .txt, .mzml, .cif, .hdf5, .dcm, .fasta, .tiff, .jpg | .qgd, .fid, .dld, .spm, .wiff., accdb, .xls | .mat, .nb, .xlsx., .shp |
+
+- [File Format Guidance](https://drive.google.com/file/d/1HT--AUsM_V6uAvO0zzDtNmPsU8apph0H/view?usp=sharing) (PDF 246 KB)
