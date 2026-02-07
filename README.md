@@ -17,7 +17,6 @@ Digital Preservation Services is responsible for developing strategies and enact
 Digital Preservation Services is responsible for identifying gaps and areas of improvement in an effort to develop more robust and efficient activities to ensure long-term access and reuse of the data.
 
 ## Goals
-
 ### Advocacy and Outreach
 - Communicate digital preservation practices to the community 
 - Strive to make digital preservation relatable for those outside the profession
@@ -130,7 +129,7 @@ Cette œuvre est mise à disposition selon les termes de la
   Email/courriel : preservation@frdr-dfdr.ca
 
 ---
-Last updated: / Dernière mise à jour : 2026-01-28
+Last updated: / Dernière mise à jour : 2026-02-06
 
 ---
 <p align="center">
