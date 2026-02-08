@@ -20,7 +20,7 @@ Digital Preservation Services is responsible for identifying gaps and areas of i
 - Advance digital preservation practices in the Canadian research data environment
 
 ### Collaboration and Community
-- Work with the research data management community to underestand their preservation needs
+- Work with the research data management community to understand their preservation needs
 - Work with the digital preservation community to understand their needs 
 - Contribute to outreach efforts within the community to promote digital preservation for research data
 
