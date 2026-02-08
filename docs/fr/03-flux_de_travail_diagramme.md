@@ -14,16 +14,17 @@ Cliquez pour agrandir l'image
 
 1. Le jeu de données est publié.
 2. La tâche Jira est clonée.
-3. La tâche Jira est déplacée vers le tableau « FPRES Jira ».
-4. La tâche passe au statut « Liste des fichiers ».
-5. Une liste de fichiers est créée et la tâche passe à la « File d'attente d'évaluation ».
-6. Une décision d'évaluation est prise. Si le jeu de données est rejeté pour la préservation à long terme, la tâche Jira est marquée comme « Terminée ». Si le jeu de données est accepté pour la préservation à long terme, la tâche Jira passe au statut « En attente de préservation ».
-7. Dès que l'équipe du service de préservation numérique dispose de la capacité nécessaire, la tâche Jira associée au jeu de données passe au statut « Traitement de préservation » et les activités de préparation à la préservation sont lancées.
+3. La tâche Jira est déplacée vers le tableau `FPRES Jira`.
+4. La tâche passe au statut `Liste des fichiers`.
+5. Une liste de fichiers est créée et la tâche passe à la `File d'attente d'évaluation`.
+6. Une décision d'évaluation est prise. Si le jeu de données est rejeté pour la préservation à long terme, la tâche Jira est marquée comme `Terminée`. Si le jeu de données est accepté pour la préservation à long terme, la tâche Jira passe au statut `En attente de préservation`.
+7. Dès que l'équipe du service de préservation numérique dispose de la capacité nécessaire, la tâche Jira associée au jeu de données passe au statut `Traitement de préservation` et les activités de préparation à la préservation sont lancées.
 8. Le jeu de données est soumis à un traitement de préservation complet et un paquet de préservation est créé.
-9. La tâche Jira passe au statut « Stockage d'archives ».
+9. La tâche Jira passe au statut `Stockage d'archives`.
 10. Le paquet de préservation est transféré vers SciNet pour le stockage à long terme.
-11. Les métadonnées sont saisies dans le DFDR et dans la feuille « Inventaire AIP ».
-12. Les fichiers « METS » et « Pointer » sont exportés et stockés dans la zone de stockage des services de préservation numérique.
+11. Les métadonnées sont saisies dans le `DFDR` et dans la feuille `Inventaire AIP`.
+12. Les fichiers `METS` et `Pointer` sont exportés et stockés dans la zone de stockage des services de préservation numérique.
+13. La tâche Jira est marquée comme `terminée`.
 
 ## Flux de travail liés au format
 Comprend tous les flux de travail liés au format, depuis l'identification jusqu'à la mise à jour du registre des politiques de format.
@@ -47,7 +48,7 @@ Cliquez pour agrandir l'image
 4. Trouver des exemples de fichiers sources.
 5. Analyser les informations hexadécimales du fichier.
 6. Développer une signature.
-7. Tester la signature avec « DROID » et « Siegfried ».
+7. Tester la signature avec `DROID` et `Siegfried`.
 8. Si le test de signature est concluant, soumettre la signature à PRONOM pour inclusion.
 9. Si la signature n'est pas concluante, contacter la communauté ou participer à une réunion PRONOM. 
 10. Revenir à l'étape 3.
@@ -63,12 +64,12 @@ Cliquez pour agrandir l'image
 4. Le script trouvera tous les formats uniques et calculera le nombre de fois où le format apparaît dans le CSV.
 5. Examinez les formats inconnus.
 6. Mettre à jour la liste CSV avec les informations d'identification des formats.
-7. Ajouter les formats au « Plan d'action pour la préservation numérique ».
-8. Télécharger la liste complète à partir du « Plan d'action pour la préservation numérique » et du fichier CSV contenant les statistiques sur les formats.
+7. Ajouter les formats au `Plan d'action pour la préservation numérique`.
+8. Télécharger la liste complète à partir du `Plan d'action pour la préservation numérique` et du fichier CSV contenant les statistiques sur les formats.
 9. Déplacer les anciens registres de politiques de format vers Google Drive pour les stocker (automatisé).
-10. Exécuter les statistiques sur les formats et le « Plan d'action pour la préservation numérique » à l'aide de scripts afin de créer des fichiers CSV et des markdowns.
+10. Exécuter les statistiques sur les formats et le `Plan d'action pour la préservation numérique` à l'aide de scripts afin de créer des fichiers CSV et des markdowns.
 11. Générer une copie en français.
-12. Valider et envoyer les modifications au référentiel GitHub.
+12. Valider et envoyer les modifications au dépôt GitHub.
 
 ## Schéma de l'infrastructure de stockage
 <img width="520" alt="diagramme de stockage" src="../../assets/workflows/archival_storage_fr.png" />
