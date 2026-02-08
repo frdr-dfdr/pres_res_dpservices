@@ -70,7 +70,7 @@ Les Services de préservation numérique ont pour mission de repérer les lacune
 
 ## Objectifs
 
-### Sensibilisation et plaidoyer
+### Sensibilisation et promotion
 - Communiquer les pratiques de préservation numérique à la communauté
 - S'efforcer de rendre la préservation numérique accessible à ceux qui ne font pas partie de la profession
 - Faire progresser les pratiques de préservation numérique dans le milieu canadien des données de recherche
@@ -100,14 +100,14 @@ Les services de préservation numérique travaillent en étroite collaboration a
 ## Équipe des services de préservation numérique
 - Maaike Bos, Analyste en préservation numérique
 - Rick Gladwin, Développeur
-- Amanda Tomé, Coordonnatrice en préservation numérique
+- Amanda Tomé, Coordonnatrice de la préservation numérique
 - Mike Winter, Développeur principal
 
 ## Lignes directrices et ressources
 - [Aperçu](/docs/fr/00-aperçu.md)
 - [Ressources](/docs/fr/01-ressources.md)
 - [Présentations](/docs/fr/02-présentations.md)
-- [Flux de travail](/docs/fr/03-flux_de_travail.md)
+- [Flux de travail et diagramme](/docs/fr/03-flux_de_travail_diagramme.md)
 
 ## General Information / Informations générales
 ### License / Licence
@@ -129,7 +129,7 @@ Cette œuvre est mise à disposition selon les termes de la
   Email/courriel : preservation@frdr-dfdr.ca
 
 ---
-Last updated: / Dernière mise à jour : 2026-02-06
+Last updated: / Dernière mise à jour : 2026-02-07
 
 ---
 <p align="center">

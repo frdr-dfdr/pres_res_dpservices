@@ -1,15 +1,14 @@
-# High Level Workflows
-Last updated: 2026-02-06
+# High Level Workflows and Diagrams
+Last updated: 2026-02-07
 
 ## Processing Workflows
 Includes workflows related to the processing of datasets for long-term preservation.
 
 Click to enlarge image
 ### Dataset processing workflow
-<img width="725" height="145" alt="digital preservation processing workflow" src="../../assets/workflows/processing_workflow_en.jpg" />
-<br>
+<img width="950" alt="digital preservation processing workflow" src="../../assets/workflows/processing_workflow_en.jpg" />
 
-[Digital Preservation Processing Workflow](https://drive.google.com/file/d/1ky841BrbpAwlt7SoLNsD7Ac4sXtNFjKL/view?usp=drive_link) (PDF 460 KB)
+[Digital Preservation Processing Workflow](https://drive.google.com/file/d/1ky841BrbpAwlt7SoLNsD7Ac4sXtNFjKL/view?usp=drive_link) (PDF 1 MB)
 
 1. Dataset is published.
 2. Jira task is cloned.
@@ -31,12 +30,12 @@ Includes all format related workflows from identification to the updating of the
 Click to enlarge image
 
 ### File Listing Generation - DRAFT
-<img width="725" height="145" alt="digital preservation file listing workflow" src="../../assets/workflows/file_listing_wkfl_en.jpg" />
+<img width="900" alt="digital preservation file listing workflow" src="../../assets/workflows/file_listing_wkfl_en.jpg" />
 
 [File Listing Workflow](https://drive.google.com/file/d/10amOasg-hfKwbXzrjBrUER4PREhf1m4m/view?usp=drive_link) (PDF 1.6 MB) - DRAFT
 
 ### Format Identification and Signature Development
-<img width="520" height="300" alt="format identification and signature development workflow" src="../../assets/workflows/format_id_en.jpg"/>
+<img width="520" alt="format identification and signature development workflow" src="../../assets/workflows/format_id_en.jpg"/>
 
 [Format Signature Development Workflow](https://drive.google.com/file/d/17rKpy0tFV2vNNC_-qlljs8MRHIyMRHAA/view?usp=drive_link) (PDF 912 KB)
 
@@ -52,7 +51,7 @@ Click to enlarge image
 10. Return to step 3.
 
 ### Format Policy Registry Update
-<img width="725" height="145" alt="format policy registry update" src="../../assets/workflows/fpr_update_en.jpg" />
+<img width="900" alt="format policy registry update" src="../../assets/workflows/fpr_update_en.jpg" />
 
 [Format Policy Registry Update](https://drive.google.com/file/d/1aQk3wPv-HiVA2YAJYbPOvLFWCvqEp9vi/view?usp=drive_link) (PDF 1.2 MB) 
 
@@ -70,7 +69,7 @@ Click to enlarge image
 12. Commit and push changes to GitHub repository.
 
 ## Storage Infrastructure Diagram
-<img width="725" alt="storage diagram" src="../../assets/workflows/archival_storage_en.png" />
+<img width="520" alt="storage diagram" src="../../assets/workflows/archival_storage_en.png" />
 
 [Long-Term Storage Diagram](https://drive.google.com/file/d/18UzP-n54UvHaTZeeTCX3RzgZhlFP1COb/view?usp=drive_link) (PDF 117 KB)
 

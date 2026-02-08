@@ -1,5 +1,5 @@
 # Aperçu de la préservation numérique
-Dernière mise à jour : 2026-01-28
+Dernière mise à jour : 2026-02-07
 
 ## Qu'est-ce que la préservation ?
 >« Une série **d'activités** gérées nécessaires pour garantir un **accès** continu aux objets numériques **aussi longtemps que nécessaire.** La préservation numérique …  fait référence à toutes les actions nécessaires pour maintenir l'accès aux objets numériques au-delà des limites de la **défaillance des médias** ou des **changements technologiques et organisationnels.** » <br>
