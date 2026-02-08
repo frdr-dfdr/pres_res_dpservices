@@ -1,9 +1,6 @@
 <img width="50%" alt="Alliance logo" src="https://github.com/user-attachments/assets/1a4f5c76-7c49-4efa-9e8e-1316be846b47" />
 
 ---
-Updates are being made to the different pages. / Des mises à jour sont en cours sur les différentes pages.
-
----
 # Digital Preservation Services 
 [![CC0 1.0][cc-0-shield]][cc-0]
 
