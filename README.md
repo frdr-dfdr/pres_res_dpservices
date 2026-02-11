@@ -1,6 +1,9 @@
 <img width="50%" alt="Alliance logo" src="https://github.com/user-attachments/assets/1a4f5c76-7c49-4efa-9e8e-1316be846b47" />
 
 ---
+**Announcements** - [FPR and Strategy Release](/docs/announcements_annonces.md)
+
+---
 # Digital Preservation Services 
 [![CC0 1.0][cc-0-shield]][cc-0]
 
@@ -52,6 +55,9 @@ Digital Preservation Services works closely with the Curation Services Team and 
 - [Resources](/docs/en/01-resources.md)
 - [Presentations](/docs/en/02-presentations.md)
 - [Workflows and Diagrams](/docs/en/03-workflows_diagrams.md)
+
+---
+**Annonces** - [Lancement du Registre des politiques relatives aux formats](/docs/announcements_annonces.md)
 
 ---
 
