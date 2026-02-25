@@ -10,19 +10,16 @@ Click to enlarge image
 
 [Digital Preservation Processing Workflow](https://drive.google.com/file/d/1ky841BrbpAwlt7SoLNsD7Ac4sXtNFjKL/view?usp=drive_link) (PDF 1 MB)
 
-1. Dataset is published.
-2. Jira task is cloned.
-3. Jira task moves to `FPRES Jira board`.
-4. Task is moved to `File Listing` status.
-5. A file list is created and the task moves to the `Appraisal Queue`.
-6. An appraisal decision is made. If the dataset is rejected for long-term preservation that the Jira task is marked as `Done`. If the dataset is accepted for long-term preservation the Jira task moves to the `Queued for Preservation` status.
-7. Once there is capacity on the Digital Preservation Service Team, the Jira task associated with the dataset will move to the `Preservation Processing` status and preservation preparation activities are started.
-8. Dataset goes through full preervation processing and a preservation package is created.
-9. Jira task moves to `Archival Storage` status.
-10. Preservation Package is transfered to SciNet for long-term storage.
-11. Metadata is entered into `FRDR` and the `AIP Inventory` sheet.
-12. `METS` and `Pointer Files` are exported and stored in the Digital Preservation Services storage area.
-13. Jira task is marked as `Done`.
+1. Jira task moves to `FPRES Jira board`.
+2. Task is moved to `File Listing` status.
+3. A file list is created and the task moves to the `Appraisal Queue`.
+4. An appraisal decision is made. If the dataset is rejected for long-term preservation that the Jira task is marked as `Done`. If the dataset is accepted for long-term preservation the Jira task moves to the `Queued for Preservation` status.
+5. Once there is capacity on the Digital Preservation Service Team, the Jira task associated with the dataset will move to the `Preservation Processing` status and preservation preparation activities are started.
+6. Dataset goes through full preservation processing and a preservation package is created.
+7. If an error is encountered, the dataset moves to the `Error Status` portion of the Jira board until it is resolved.
+8. Jira task moves to `Archival Storage` status.
+9. Preservation Package is transfered to SciNet for long-term storage.
+10. Jira task is marked as `Done`.
 
 ## Format Related Workflows
 Includes all format related workflows from identification to the updating of the Format Policy Registry.

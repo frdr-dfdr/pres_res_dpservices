@@ -1,30 +1,28 @@
 # Flux de travail et diagrammes de haut niveau
-Dernière mise à jour : 2026-02-07
+Dernière mise à jour : 2026-02-25
 
 ## Flux de travail de traitement
 Comprend les flux de travail liés au traitement des jeux de données en vue de leur préservation à long terme.
 
 Cliquez pour agrandir l'image
 
-### Flux de travail pour le traitement des jeux de données
-<img width="950" alt="Flux de travail pour le traitement des jeux de données" src="../../assets/workflows/processing_workflow_fr.jpg" />
+### Processus de traitement de haut niveau
+<img width="950" alt="processus de traitement des jeux de données" src="../../assets/workflows/processing_workflow_fr.jpg" />
 <br>
 
-[Flux de travail pour le traitement des jeux de données](https://drive.google.com/file/d/1f5n4hFFm9nqOl9tZIGgdvu0YH-aQOaOr/view?usp=sharing) (PDF 1.2 MB)
+[Processus pour le traitement des jeux de données](https://drive.google.com/file/d/1f5n4hFFm9nqOl9tZIGgdvu0YH-aQOaOr/view?usp=sharing) (PDF 483 KB)
 
-1. Le jeu de données est publié.
-2. La tâche Jira est clonée.
-3. La tâche Jira est déplacée vers le tableau `FPRES Jira`.
-4. La tâche passe au statut `Liste des fichiers`.
-5. Une liste de fichiers est créée et la tâche passe à la `File d'attente d'évaluation`.
-6. Une décision d'évaluation est prise. Si le jeu de données est rejeté pour la préservation à long terme, la tâche Jira est marquée comme `Terminée`. Si le jeu de données est accepté pour la préservation à long terme, la tâche Jira passe au statut `En attente de préservation`.
-7. Dès que l'équipe du service de préservation numérique dispose de la capacité nécessaire, la tâche Jira associée au jeu de données passe au statut `Traitement de préservation` et les activités de préparation à la préservation sont lancées.
-8. Le jeu de données est soumis à un traitement de préservation complet et un paquet de préservation est créé.
-9. La tâche Jira passe au statut `Stockage d'archives`.
-10. Le paquet de préservation est transféré vers SciNet pour le stockage à long terme.
-11. Les métadonnées sont saisies dans le `DFDR` et dans la feuille `Inventaire AIP`.
-12. Les fichiers `METS` et `Pointer` sont exportés et stockés dans la zone de stockage des services de préservation numérique.
-13. La tâche Jira est marquée comme `terminée`.
+1. La tâche Jira est déplacée vers le tableau `FPRES Jira`.
+2. La tâche passe au statut `Liste des fichiers`.
+3. Une liste de fichiers est créée et la tâche passe à la `File d'attente d'évaluation`.
+4. Une décision d'évaluation est prise. Si le jeu de données est rejeté pour la préservation à long terme, la tâche Jira est marquée comme `Terminée`. Si le jeu de données est accepté pour la préservation à long terme, la tâche Jira passe au statut `En attente de préservation`.
+5. Dès que l'équipe du service de préservation numérique dispose de la capacité nécessaire, la tâche Jira associée au jeu de données passe au statut `Traitement de préservation` et les activités de préparation à la préservation sont lancées.
+Si une erreur survient, le jeu de données est déplacé vers la partie « État d'erreur » du tableau Jira jusqu'à ce qu'elle soit résolue.
+6. Le jeu de données est soumis à un traitement de préservation complet et un paquet de préservation est créé.
+7. Si une erreur survient, le jeu de données est déplacé vers la partie « État d'erreur » du tableau Jira jusqu'à ce qu'elle soit résolue.
+8. La tâche Jira passe au statut `Stockage d'archives`.
+9. Le paquet de préservation est transféré vers SciNet pour le stockage à long terme.
+10. La tâche Jira est marquée comme `terminée`.
 
 ## Flux de travail liés au format
 Comprend tous les flux de travail liés au format, depuis l'identification jusqu'à la mise à jour du registre des politiques de format.
@@ -33,7 +31,7 @@ Cliquez pour agrandir l'image
 
 ### Génération de listes de fichiers - ÉBAUCHE
 
-<img width="900" alt="Flux de travail pour la liste des fichiers" src="../../assets/workflows/file_listing_wkfl_fr.jpg" />
+<img width="900" alt="Processus de liste des fichiers" src="../../assets/workflows/file_listing_wkfl_fr.jpg" />
 
 [Flux de travail pour la liste des fichiers](https://drive.google.com/file/d/1ydXZrJleKEPLdsbvka59M_khY4HOKgxS/view?usp=drive_link) (PDF 1.6 MB)
 
