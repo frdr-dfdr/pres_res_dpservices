@@ -54,10 +54,6 @@ Digital Preservation Services works closely with the Curation Services Team and 
 - [Workflows and Diagrams](/docs/en/03-workflows_diagrams.md)
 
 ---
-**Annonces** - [Lancement du Registre des politiques relatives aux formats](/docs/announcements_annonces.md)
-
----
-
 # Services de préservation numérique
 [![CC0 1.0][cc-0-shield]][cc-0]
 
