@@ -1,10 +1,11 @@
 # Selected Presentations
-Last updated: 2026-02-07
+Last updated: 2026-02-25
 
 This section contains selected presentations about digital preservation services and the work it undertakes. 
 
 | Presentation Slides | Event | Date | Topics | Presenter(s) |
 |:-----------|:----------- |:----------- |:----------- |:----------- |
+|[Format Policy Registry (FRP)](https://drive.google.com/file/d/1PZZ4xHy6rHhMKPmnJ3J7UxXaxg-fmqpU/view?usp=drive_link) (PDF 1.5 MB)| Digital Research Alliance of Canada Coffee Chat| February 25, 2026 |Format Policy Registry | Amanda Tomé, Digital Preservation Coordinator |
 |["What's Love Got to Do with It?" The Trial and Tribulations of the Preservation of Research Data](https://drive.google.com/file/d/1BiEtqLqLnD3qKquGbsTn4ylpFqRt-LlR/view?usp=drive_link) EN/FR (PDF 851 KB) | [Love Data Week Preservation Panel](https://explora.alliancecan.ca/events/research-data-preservation-a-love-letter-to-our-future-data-communities)| February 13, 2026 | Services / Preservation Overview | Amanda Tomé, Digital Preservation Coordinator |
 |[Appraisal for Research Data](https://drive.google.com/file/d/1FWyMK-gpkOUusIu8kj5zv2Ci7ZtF3GTp/view?usp=drive_link) (PDF 501 KB)| Digital Research Alliance of Canada Coffee Chat | November 19, 2025 | Appraisal | Amanda Tomé, Digital Preservation Coordinator |
 |[Has Magic?: False: File Format Signature Development for Research Data Formats](https://drive.google.com/file/d/1OdeyDnRl5rcDpa15mAym21xqVdP7t5aa/view?usp=sharing) (PDF 2.3 MB) |[DRI Connect 2025](https://driconnect.alliancecan.ca/)|May 27, 2025| Format Identification | Amanda Tomé, Digital Preservation Coordinator |
