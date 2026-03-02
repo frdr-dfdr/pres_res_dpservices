@@ -10,7 +10,7 @@ Click to enlarge image
 
 [Digital Preservation Processing Workflow](https://drive.google.com/file/d/1ky841BrbpAwlt7SoLNsD7Ac4sXtNFjKL/view?usp=drive_link) (PDF 1 MB)
 
-1. Jira task moves to `FPRES Jira board`.
+<!-- 1. Jira task moves to `FPRES Jira board`.
 2. Task is moved to `File Listing` status.
 3. A file list is created and the task moves to the `Appraisal Queue`.
 4. An appraisal decision is made. If the dataset is rejected for long-term preservation that the Jira task is marked as `Done`. If the dataset is accepted for long-term preservation the Jira task moves to the `Queued for Preservation` status.
@@ -19,7 +19,7 @@ Click to enlarge image
 7. If an error is encountered, the dataset moves to the `Error Status` portion of the Jira board until it is resolved.
 8. Jira task moves to `Archival Storage` status.
 9. Preservation Package is transfered to SciNet for long-term storage.
-10. Jira task is marked as `Done`.
+10. Jira task is marked as `Done`. -->
 
 ## Format Related Workflows
 Includes all format related workflows from identification to the updating of the Format Policy Registry.
@@ -36,7 +36,7 @@ Click to enlarge image
 
 [Format Signature Development Workflow](https://drive.google.com/file/d/17rKpy0tFV2vNNC_-qlljs8MRHIyMRHAA/view?usp=drive_link) (PDF 912 KB)
 
-1. Get format report.
+<!-- 1. Get format report.
 2. Get list of unknown formats.
 3. Research formats.
 4. Source file samples.
@@ -45,14 +45,14 @@ Click to enlarge image
 7. Test signature with `DROID` and `Siegfried`.
 8. If signature testing is successful, then submit the signature to PRONOM for inclusion
 9. If signature is unsuccessful, the reach out to the community or attend a PRONOM drop-in meeting. 
-10. Return to step 3.
+10. Return to step 3. -->
 
 ### Format Policy Registry Update
 <img width="900" alt="format policy registry update" src="../../assets/workflows/fpr_update_en.jpg" />
 
 [Format Policy Registry Update](https://drive.google.com/file/d/1aQk3wPv-HiVA2YAJYbPOvLFWCvqEp9vi/view?usp=drive_link) (PDF 1.2 MB) 
 
-1. Create a file listing using Siegfried that includes all files in the dataset, the file path, the MIME type, and the format if known.
+<!-- 1. Create a file listing using Siegfried that includes all files in the dataset, the file path, the MIME type, and the format if known.
 2. Add the dataset file listing to the full dataset range CSV.
 3. Run the full CSV through scripts. 
 4. The script will find all unique formats and calculate the number of times the format is in the CSV.
@@ -63,14 +63,14 @@ Click to enlarge image
 9. Move old Format Policy Registries to Google Drive for storage (automated).
 10. Run format stats and the `Digital Preservation Action Plan` through scripts to create CSVs, markdown.
 11. Generate French copy.
-12. Commit and push changes to GitHub repository.
+12. Commit and push changes to GitHub repository. -->
 
 ## Storage Infrastructure Diagram
 <img width="520" alt="storage diagram" src="../../assets/workflows/archival_storage_en.png" />
 
 [Long-Term Storage Diagram](https://drive.google.com/file/d/18UzP-n54UvHaTZeeTCX3RzgZhlFP1COb/view?usp=drive_link) (PDF 117 KB)
 
-1. Datasets get moved from repository storage to Archivematica proccessing pipeline ingest area
+<!-- 1. Datasets get moved from repository storage to Archivematica proccessing pipeline ingest area
 2. Preservation packages are generated
 3. Preservation packages are transferred to SciNet for long-term storage
-4. Backup copies are stored at Queens University
+4. Backup copies are stored at Queens University -->

@@ -11,7 +11,7 @@ Cliquez pour agrandir l'image
 <br>
 
 [Processus pour le traitement des jeux de données](https://drive.google.com/file/d/1f5n4hFFm9nqOl9tZIGgdvu0YH-aQOaOr/view?usp=sharing) (PDF 483 KB)
-
+<!-- 
 1. La tâche Jira est déplacée vers le tableau `FPRES Jira`.
 2. La tâche passe au statut `Liste des fichiers`.
 3. Une liste de fichiers est créée et la tâche passe à la `File d'attente d'évaluation`.
@@ -22,7 +22,7 @@ Si une erreur survient, le jeu de données est déplacé vers la partie « État
 7. Si une erreur survient, le jeu de données est déplacé vers la partie « État d'erreur » du tableau Jira jusqu'à ce qu'elle soit résolue.
 8. La tâche Jira passe au statut `Stockage d'archives`.
 9. Le paquet de préservation est transféré vers SciNet pour le stockage à long terme.
-10. La tâche Jira est marquée comme `terminée`.
+10. La tâche Jira est marquée comme `terminée`. -->
 
 ## Flux de travail liés au format
 Comprend tous les flux de travail liés au format, depuis l'identification jusqu'à la mise à jour du registre des politiques de format.
@@ -40,7 +40,7 @@ Cliquez pour agrandir l'image
 
 [Identification du format et développement de la signature](https://drive.google.com/file/d/13uW0B8ev5xYmrDZCYUuDIm_aG8ln1VxQ/view?usp=drive_link) (PDF 931 KB)
 
-1. Obtenir le rapport sur les formats.
+<!-- 1. Obtenir le rapport sur les formats.
 2. Obtenir la liste des formats inconnus.
 3. Rechercher les formats.
 4. Trouver des exemples de fichiers sources.
@@ -49,14 +49,14 @@ Cliquez pour agrandir l'image
 7. Tester la signature avec `DROID` et `Siegfried`.
 8. Si le test de signature est concluant, soumettre la signature à PRONOM pour inclusion.
 9. Si la signature n'est pas concluante, contacter la communauté ou participer à une réunion PRONOM. 
-10. Revenir à l'étape 3.
+10. Revenir à l'étape 3. -->
 
 ### Mise à jour du registre des politiques de format
 <img width="900" alt="Mise à jour du registre des politiques de format" src="../../assets/workflows/fpr_update_fr.jpg" />
 
 [Mise à jour du registre des politiques de format](https://drive.google.com/file/d/1ik4SAW90eUvwtY_d0HU2F-2yEqPz5e9s/view?usp=drive_link) (PDF 1.1 MB)
 
-1. Créez une liste de fichiers à l'aide de Siegfried qui inclut tous les fichiers du jeu de données, le chemin d'accès au fichier, le type MIME et le format s'il est connu.
+<!-- 1. Créez une liste de fichiers à l'aide de Siegfried qui inclut tous les fichiers du jeu de données, le chemin d'accès au fichier, le type MIME et le format s'il est connu.
 2. Ajoutez la liste des fichiers du jeu de données au CSV complet du jeu de données.
 3. Exécutez le CSV complet à l'aide de scripts. 
 4. Le script trouvera tous les formats uniques et calculera le nombre de fois où le format apparaît dans le CSV.
@@ -67,14 +67,14 @@ Cliquez pour agrandir l'image
 9. Déplacer les anciens registres de politiques de format vers Google Drive pour les stocker (automatisé).
 10. Exécuter les statistiques sur les formats et le `Plan d'action pour la préservation numérique` à l'aide de scripts afin de créer des fichiers CSV et des markdowns.
 11. Générer une copie en français.
-12. Valider et envoyer les modifications au dépôt GitHub.
+12. Valider et envoyer les modifications au dépôt GitHub. -->
 
 ## Schéma de l'infrastructure de stockage
 <img width="520" alt="diagramme de stockage" src="../../assets/workflows/archival_storage_fr.png" />
 
 [Schéma de stockage à long terme](https://drive.google.com/file/d/1jlj6JuSqqgseiX4HO2V8IJfuSLtondIC/view?usp=drive_link) (PDF 25 KB)
 
-1. Les jeux de données sont transférés du stockage du dépôt vers la zone d'ingestion de traitement d'Archivematica.
+<!-- 1. Les jeux de données sont transférés du stockage du dépôt vers la zone d'ingestion de traitement d'Archivematica.
 2. Des paquets de préservation sont générés.
 3. Les paquets de préservation sont transférés vers SciNet pour un stockage à long terme.
-4. Des copies de sauvegarde sont stockées à l'université Queens.
+4. Des copies de sauvegarde sont stockées à l'université Queens. -->

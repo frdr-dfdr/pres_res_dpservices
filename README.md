@@ -103,7 +103,7 @@ Les services de préservation numérique travaillent en étroite collaboration a
 - [Aperçu](/docs/fr/00-aperçu.md)
 - [Ressources](/docs/fr/01-ressources.md)
 - [Présentations](/docs/fr/02-présentations.md)
-- [Flux de travail et diagramme](/docs/fr/03-flux_de_travail_diagramme.md)
+- [Processus et diagramme](/docs/fr/03-processus_diagramme.md)
 
 ## General Information / Informations générales
 ### License / Licence
@@ -125,7 +125,8 @@ Cette œuvre est mise à disposition selon les termes de la
   Email/courriel : preservation@frdr-dfdr.ca
 
 ---
-Last updated: / Dernière mise à jour : 2026-02-07
+Last updated: / Dernière mise à jour : 2026-02-07<br>
+    Amanda Tomé
 
 ---
 <p align="center">
