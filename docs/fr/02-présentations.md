@@ -1,10 +1,11 @@
 # Présentations sélectionnées
-Dernière mise à jour : 2026-03-25
+Dernière mise à jour : 2026-04-21
 
 Cette section présente une sélection de présentations portant sur les services de préservation numérique et les travaux qu’ils mènent.
 
-| Diapositives | Événement | Date | Thèmes |Intervenant(s) |
+| Diapositives | Événement | Date | Thèmes |Conférencière(s) |
 |:-----------|:----------- |:----------- |:----------- |:----------- |
+|[Journey Toward a Format Policy Registry](https://drive.google.com/file/d/1riGZel00fVprXGlYFw_hHMiOu3zfwbmW/view?usp=drive_link) (PDF 2.5 MB)| [DPC Americas Members Forum](https://www.dpconline.org/events/eventdetail/529/-/dpc-members-forum-and-networking-event-the-americas) | 22 avril 2026 | Registre des politiques de format | Amanda Tomé, coordonnatrice de la préservation numérique |
 |[Vers un Registre des politiques relatives aux formats](https://drive.google.com/file/d/1QzaXrn8FGa-aXx9ELsGQ1qDPHzJP7FeX/view?usp=drive_link) (PDF 2.6 MB)| Curation Clinic | 25 mars 2026 | Registre des politiques de format| Amanda Tomé, coordonnatrice de la préservation numérique |
 |[Digital Preservation in HPC Environments](https://drive.google.com/file/d/1D0x_T9aeyeoQU2mw52cQtlgC5yyPCaCw/view?usp=sharing) (PDF 1.9 MB)| [Digital Preservation Coalition - Community Owned Workflows](https://www.dpconline.org/events/eventdetail/661/-/digital-preservation-workflow-webinars-2026)| 4 mars 2026 |Flux de travail | Amanda Tomé, coordonnatrice de la préservation numérique |
 |[Format Policy Registry (FRP)](https://drive.google.com/file/d/1PZZ4xHy6rHhMKPmnJ3J7UxXaxg-fmqpU/view?usp=drive_link) (PDF 1.5 MB)| l'Alliance de recherche numérique du Canada, pause café| 25 février 2026 |Registre en matière de formats| Amanda Tomé, coordonnatrice de la préservation numérique |
