@@ -51,7 +51,6 @@ Digital Preservation Services works closely with the Curation Services Team and 
 - [Overview](/docs/en/00-overview.md)
 - [Resources](/docs/en/01-resources.md)
 - [Presentations](/docs/en/02-presentations.md)
-- [Workflows and Diagrams](/docs/en/03-workflows_diagrams.md)
 
 ---
 # Services de préservation numérique
@@ -103,7 +102,6 @@ Les services de préservation numérique travaillent en étroite collaboration a
 - [Aperçu](/docs/fr/00-aperçu.md)
 - [Ressources](/docs/fr/01-ressources.md)
 - [Présentations](/docs/fr/02-présentations.md)
-- [Processus et diagramme](/docs/fr/03-processus_diagramme.md)
 
 ## General Information / Informations générales
 ### License / Licence
