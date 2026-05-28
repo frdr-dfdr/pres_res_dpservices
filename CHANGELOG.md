@@ -1,5 +1,14 @@
 # Changelog
-Only major changes will be tracked in this changelog. Fixing typos, links, and layouts will not be documented unless it constitutes a signification change to the resource.
+Only major and minor changes will be tracked in this changelog. Fixing typos, links, and layouts will not be documented unless it constitutes a signification change to the resource.
+
+## [2.1.0] - 2026-05-27
+
+### Changed
+- Updated readme graphic
+- Added Zenodo doi to resources
+
+### Removed
+- Removed workflow section. This is in the process of being updated
 
 ## [2.0.0] - 2026-01-28
 ### Added
