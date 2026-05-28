@@ -7,10 +7,10 @@ Last updated: 2026-02-06
 >-Digital Preservation Coalition
 
 ## Digital Preservation Activities
-The image below provides and overview of a select digital preservation activities undertaken by the Service.
+The image below provides and overview of select digital preservation activities undertaken by the Service.
 
 <p align="center">
-  <img width="600" height="600" alt="Web of preservation activities" src="../../assets/workflows/preservation_web_en.jpg" style="border: 1px black" />
+  <img width="400" height="400" alt="Web of preservation activities" src="../../assets/dp_matrix_en.jpg" style="border: 1px black" />
 </p>
 
 - Click to enlarge image
@@ -22,7 +22,7 @@ Examples of activities undertaken by Digital Preservation Services include:
 |:-------|:------|
 |Asset Registry|Inventory of all preservation packages.|
 |Benchmarking| Using [DPC RAM Benchmarking](https://www.dpconline.org/digipres/implement-digipres/dpc-ram) to evaluation the Service.|
-|Documentation|Documenting [workflows](/docs/en/03-workflows_diagrams.md) and storage infrastructure.|
+|Documentation|Documenting workflows and storage infrastructure.|
 |Format Identification|Format analysis and development of format signatures for [PRONOM](https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new)|
 |Metrics|Collecting information about processing, appraisal decisions, and format identification.|
 |Outreach and Advocacy|Delivering presentations about digital preservation and Digital Preservation Services, and the development of resources for the digital preservation community and researchers.|

@@ -9,7 +9,7 @@ Dernière mise à jour : 2026-02-07
 L'image ci-dessous donne un aperçu d'une sélection d'activités de préservation numérique menées par le Service.
 
 <p align="center">
-  <img width="600" height="600" alt="Web of preservation activities" src="../../assets/workflows/preservation_web_fr.jpg" />
+  <img width="400" height="400" alt="Web of preservation activities" src="../../assets/dp_matrix_fr.jpg" />
 </p>
 
 - Cliquez pour agrandir l'image
@@ -20,7 +20,7 @@ Certaines des activités fondamentales de préservation numérique comprennent :
 |:-------|:------|
 |Registre |Inventaire de tous les paquets de préservation.|
 |Évaluation comparative | Utilisation de l'évaluation comparative [DPC RAM](https://www.dpconline.org/digipres/implement-digipres/dpc-ram) pour évaluer le service.
-|Documentation|Documentation des [flux de travail](/docs/fr/03-flux_de_travail_diagramme.md) et de l'infrastructure de stockage.
+|Documentation|Documentation des flux de travail et de l'infrastructure de stockage.
 |Identification des formats|Analyse des formats et développement de signatures de formats pour [PRONOM](https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new)|
 |Mesures|Collecte d'informations sur le traitement, les décisions d'évaluation et l'identification des formats.|
 |Sensibilisation et promotion|Présentations sur la préservation numérique et les services de préservation numérique, et développement de ressources pour la communauté de la préservation numérique et les chercheurs.|

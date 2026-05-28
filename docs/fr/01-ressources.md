@@ -14,7 +14,7 @@ Vous trouverez ci-dessous des ressources développées par les services de prés
 |Migration|La migration consiste à transformer des données d’un format vers une version plus récente du même format. Elle peut également comprendre la migration d’un fichier vers un format différent afin d’assurer un accès continu.|
 |Normalisation|La normalisation consiste à convertir les fichiers originaux vers un nombre restreint de formats non-propriétaires, largement disponibles et couramment utilisés.|
 
-- [Principes de base de la préservation numérique](https://drive.google.com/file/d/1uBfFvxiLEu-DA7Zr9r9vX4y-Eekm-l-Q/view?usp=drive_link) (PDF 287 KB)
+- [Principes de base de la préservation numérique](https://doi.org/10.5281/zenodo.20310694) (PDF 396.4 Ko)
 
 ## Préservation numérique des données de recherche
 Les considérations liées à la préservation des données de recherche peuvent être intégrées dès la phase de planification du projet de recherche. À cette étape, les chercheuses et chercheurs peuvent commencer à réfléchir aux données qui devront être conservées au-delà de la durée du projet.
@@ -45,7 +45,7 @@ Déterminez si toutes les données que vous avez générées doivent être conse
 *Adapté de Robyn Stobbs, « Understanding Data Deposit », 13 février 2025, et du Digital Curation Centre, « Five steps to decide
 what data to keep: DCC Checklist for Appraising Research Data », 2014.
 
-- [Préservation numérique des données de recherche](https://drive.google.com/file/d/1BZJAvO36gpp0ahlIKOuXgEcG1t591XKb/view?usp=drive_link) (PDF 280 KB)
+- [Préservation numérique et conservation des données de recherche](https://doi.org/10.5281/zenodo.20311472) (PDF 325.6 Ko)
 
 ### Lignes directrices sur les formats de fichiers à l’intention des chercheuses et chercheurs
 Le tableau ci-dessous présente des lignes directrices générales destinées aux chercheuses et chercheurs et décrit les différences entre les formats propriétaires et les formats ouverts. De manière générale, l’utilisation de formats ouverts est encouragée, car la probabilité d’un accès continu et d’une réutilisation à long terme est plus élevée. 
@@ -57,4 +57,4 @@ Le tableau ci-dessous présente des lignes directrices générales destinées au
 | Souvent des normes ouvertes, maintenues par un organisme d’expertise non commercial.| Description du format confidentielle et susceptible de changer à tout moment. | Description du format susceptible de changer à tout moment, sous le contrôle de l’entreprise. |
 | .csv, .txt, .mzml, .cif, .hdf5, .dcm, .fasta, .tiff, .jpg | .qgd, .fid, .dld, .spm, .wiff., accdb, .xls | .mat, .nb, .xlsx., .shp |
 
-- [Lignes directrices sur les formats de fichiers à l’intention des chercheuses et chercheurs](https://drive.google.com/file/d/1jIevj9GvfJUNJcYMO7Fc4kJUD-dfjysp/view?usp=drive_link) (PDF 153 KB)
+- [Lignes directrices sur les formats de fichiers à l’intention des chercheuses et chercheurs](https://doi.org/10.5281/zenodo.20311132) (PDF 276 Ko)
